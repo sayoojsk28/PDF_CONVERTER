@@ -34,6 +34,6 @@ pip install streamlit python-docx reportlab
 streamlit run app.py
 ```
 
-## Sayooj KS
+## Author
 
-Your Name
+Sayooj K S
